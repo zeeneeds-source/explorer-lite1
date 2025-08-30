@@ -1,0 +1,1 @@
+console.log("Explorer Lite frontend loaded");
